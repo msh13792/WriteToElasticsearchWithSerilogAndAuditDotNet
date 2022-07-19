@@ -1,1 +1,1 @@
-# WriteToElasticsearchWithSerilog_2
+# WriteToElasticsearchWithSerilog
